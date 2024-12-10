@@ -1,6 +1,6 @@
 Joke Teller
 -----------------------------------------------------------------------------
-Simple web application that fetches random jokes from a Joke API and uses the VoiceRSS Text-to-Speech API to read them aloud. This project demonstrates how to integrate third-party APIs to create an interactive and entertaining user experience.
+Simple web application that fetches random jokes from a Joke API and uses the VoiceRSS Text-to-Speech API to read them aloud.
 
 Features
 -----------------------------------------------------------------------------
