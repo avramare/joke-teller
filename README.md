@@ -1,6 +1,6 @@
 🤖 Joke Teller
 -----------------------------------------------------------------------------
-Simple web application that fetches random jokes from a Joke API and uses the VoiceRSS Text-to-Speech API to read them aloud.
+Simple web application that fetches random developer jokes from a Joke API and uses the VoiceRSS Text-to-Speech API to read them aloud.
 
 Features
 -----------------------------------------------------------------------------
